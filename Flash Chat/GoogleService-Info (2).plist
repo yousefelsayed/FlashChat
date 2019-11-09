@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>771312284837-lcb51jitqgjbq7ba6hrhs32fgn5mm6a4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.771312284837-lcb51jitqgjbq7ba6hrhs32fgn5mm6a4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvHOeJbc7zVaFDkj7paLw4Ky5eIOczILk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>771312284837</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.YousefElsayed.Flash-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>flash-chat-4909a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flash-chat-4909a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:771312284837:ios:845ff4f6c37798c5fc494c</string>
+	<key>DATABASE_URL</key>
+	<string>https://flash-chat-4909a.firebaseio.com</string>
+</dict>
+</plist>
